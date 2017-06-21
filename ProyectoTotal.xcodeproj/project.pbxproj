@@ -15,6 +15,8 @@
 		ED054DCE1EFAD532005F5FDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED054DCC1EFAD532005F5FDA /* LaunchScreen.storyboard */; };
 		ED054DD91EFAD532005F5FDA /* ProyectoTotalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED054DD81EFAD532005F5FDA /* ProyectoTotalTests.swift */; };
 		ED054DE41EFAD532005F5FDA /* ProyectoTotalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED054DE31EFAD532005F5FDA /* ProyectoTotalUITests.swift */; };
+		ED054DF21EFADCBD005F5FDA /* ViewControllerDos.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED054DF11EFADCBD005F5FDA /* ViewControllerDos.swift */; };
+		ED054DF61EFAE9B4005F5FDA /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED054DF51EFAE9B4005F5FDA /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		ED054DDF1EFAD532005F5FDA /* ProyectoTotalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProyectoTotalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED054DE31EFAD532005F5FDA /* ProyectoTotalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProyectoTotalUITests.swift; sourceTree = "<group>"; };
 		ED054DE51EFAD532005F5FDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED054DF11EFADCBD005F5FDA /* ViewControllerDos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerDos.swift; sourceTree = "<group>"; };
+		ED054DF51EFAE9B4005F5FDA /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,11 +105,13 @@
 			children = (
 				ED054DC01EFAD532005F5FDA /* AppDelegate.swift */,
 				ED054DC21EFAD532005F5FDA /* ViewController.swift */,
+				ED054DF11EFADCBD005F5FDA /* ViewControllerDos.swift */,
 				ED054DC41EFAD532005F5FDA /* Main.storyboard */,
 				ED054DCA1EFAD532005F5FDA /* Assets.xcassets */,
 				ED054DCC1EFAD532005F5FDA /* LaunchScreen.storyboard */,
 				ED054DCF1EFAD532005F5FDA /* Info.plist */,
 				ED054DC71EFAD532005F5FDA /* ProyectoTotal.xcdatamodeld */,
+				ED054DF51EFAE9B4005F5FDA /* ViewController3.swift */,
 			);
 			path = ProyectoTotal;
 			sourceTree = "<group>";
@@ -265,7 +271,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED054DF61EFAE9B4005F5FDA /* ViewController3.swift in Sources */,
 				ED054DC31EFAD532005F5FDA /* ViewController.swift in Sources */,
+				ED054DF21EFADCBD005F5FDA /* ViewControllerDos.swift in Sources */,
 				ED054DC11EFAD532005F5FDA /* AppDelegate.swift in Sources */,
 				ED054DC91EFAD532005F5FDA /* ProyectoTotal.xcdatamodeld in Sources */,
 			);
