@@ -106,12 +106,12 @@
 				ED054DC01EFAD532005F5FDA /* AppDelegate.swift */,
 				ED054DC21EFAD532005F5FDA /* ViewController.swift */,
 				ED054DF11EFADCBD005F5FDA /* ViewControllerDos.swift */,
+				ED054DF51EFAE9B4005F5FDA /* ViewController3.swift */,
 				ED054DC41EFAD532005F5FDA /* Main.storyboard */,
 				ED054DCA1EFAD532005F5FDA /* Assets.xcassets */,
 				ED054DCC1EFAD532005F5FDA /* LaunchScreen.storyboard */,
 				ED054DCF1EFAD532005F5FDA /* Info.plist */,
 				ED054DC71EFAD532005F5FDA /* ProyectoTotal.xcdatamodeld */,
-				ED054DF51EFAE9B4005F5FDA /* ViewController3.swift */,
 			);
 			path = ProyectoTotal;
 			sourceTree = "<group>";
